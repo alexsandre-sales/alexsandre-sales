@@ -45,7 +45,9 @@ function Ambitions() {
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandre-sales/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmanucoutinho@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lexkogake@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordanruant@gmail.com
+)]
 
 ![Alexsandre github stats](https://github-readme-stats.vercel.app/api?username=alexsandre-sales&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
