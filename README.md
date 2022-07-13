@@ -4,7 +4,7 @@
  
 const WhoAmI = {
   user: "Alexsandre C. Sales",
-  student: "Full Stack",
+  student: "React and Java",
   hobbies: [
    "Studying",
    "Watch Anime",
@@ -18,7 +18,6 @@ const WhoAmI = {
 	
 function Ambitions() {
 	travelToCanada()
-  	learnReact()
   	workAtHome()
 } 
  ```
